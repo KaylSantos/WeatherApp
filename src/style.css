@@ -1,17 +1,25 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
+  background-image: url(https://images.pexels.com/photos/531972/pexels-photo-531972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-size: 1550px 750px;
+}
+
+.title {
+  margin-bottom: 15px;
+  font-size: 40px;
 }
 
 .weather-app {
   padding: 20px;
-  border: 1px solid #dadde1;
-  border-radius: 5px;
+  border: 2px solid #dadde1;
+  border-radius: 7px;
+  background-color: #c5c4c6;
 }
 
 h1 {
   color: #878787;
   display: block;
-  font-size: 24px;
+  font-size: 30px;
   font-weight: 100;
   line-height: 28px;
   margin-bottom: 0;
